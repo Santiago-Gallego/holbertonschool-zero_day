@@ -1,1 +1,1 @@
-this is a file abaut vagrant
+This project is about installing and know how to navigate a virtual machine with Vagrant, to know what Ubuntu is and means, and to know what the "uname" command prints when you run it without options.
